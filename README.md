@@ -1,9 +1,9 @@
-Polish letters sorting plugin for jQuery Datatables
-===================================================
-Wtyczka dla poprawnego sortowania polskich znaków w jQuery Datatables
-======================================================================
+**Polish letters sorting plugin for jQuery Datatables**
 
-**Example of usage**
+**Wtyczka dla poprawnego sortowania polskich znaków w jQuery Datatables**
+
+
+*Example of usage*
 
 ```javascript
 $('#table-with-polish-signs').DataTable({
