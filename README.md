@@ -11,7 +11,7 @@ $('#table-with-polish-signs').DataTable({
 	
 	'aoColumns': [
 			null,
-			{ "sType": "polstring" }, //Sorting by second column with polish letters (sortowanie drugiej kolumny zpolskimi literami
+			{ "sType": "polstring" }, //Sorting by second column with polish letters (sortowanie drugiej kolumny z polskimi literami
 			null,
 	]
 });
